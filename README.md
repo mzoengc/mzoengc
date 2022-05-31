@@ -53,19 +53,14 @@
 <h2 id="contact">Get in touch</h2>
 <table>
   <tr>
-    <!-- <td>
-        <a href="#">
-            <img src="./img/linkedin.jpg" width="36" height="36" alt="linkedin"></img>
-        </a>
-    </td> -->
     <td>
         <a href="https://github.com/mzoengc/">
             <img src="./img/github.jpg" width="36" height="36" alt="Github"></img>
         </a>
     </td>
     <td>
-        <a href="https://twitter.com/mzoengc/">
-            <img src="./img/twitter.jpg" width="36" height="36" alt="Twitter"></img>
+        <a href="https://www.linkedin.com/in/marymwc/">
+            <img src="./img/linkedin.jpg" width="36" height="36" alt="linkedin"></img>
         </a>
     </td>
     <td>
@@ -84,7 +79,12 @@
         </a>
     </td>
     <td>
-        <a href="https://www.facebook.com/people/Mary-Cheung/100078629327204/">
+        <a href="https://twitter.com/mzhkca/">
+            <img src="./img/twitter.jpg" width="36" height="36" alt="Twitter"></img>
+        </a>
+    </td>
+    <td>
+        <a href="https://www.facebook.com/mzhkca/">
             <img src="./img/facebook.jpg" width="36" height="36" alt="Facebook"></img>
         </a>
     </td>
