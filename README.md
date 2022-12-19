@@ -1,109 +1,33 @@
-<h3 align="left">Hi there 👋, I'm Mary Cheung</h3>
-<p>Full Stack Web Developer using MEAN stack</p>
-<table>
-  <tr>
-    <td>
-        <a href="https://github.com/mzoengc/">
-            <img src="./img/github.jpg" width="16" height="16" alt="Github"></img>
-        </a>
-    </td>
-    <td>
-        <a href="https://www.linkedin.com/in/marymwc/">
-            <img src="./img/linkedin.jpg" width="16" height="16" alt="linkedin"></img>
-        </a>
-    </td>
-    <td>
-        <a href="https://leetcode.com/mzoengc/">
-            <img src="./img/leetcode.jpg" width="16" height="16" alt="Leetcode"></img>
-        </a>
-    </td>
-    <td>
-        <a href="mailto:mingwai.cheung@pm.me">
-            <img src="./img/protonmail.jpg" width="16" height="16" alt="Protonmail"></img>
-        </a>
-    </td>
-    <td>
-        <a href="mailto:mingwai.cheung@hotmail.com">
-            <img src="./img/outlook.png" width="16" height="16" alt="Hotmail"></img>
-        </a>
-    </td>
-    <td>
-        <a href="https://twitter.com/mzhkca/">
-            <img src="./img/twitter.jpg" width="16" height="16" alt="Twitter"></img>
-        </a>
-    </td>
-    <td>
-        <a href="https://www.facebook.com/mzhkca/">
-            <img src="./img/facebook.jpg" width="16" height="16" alt="Facebook"></img>
-        </a>
-    </td>
-    <td>
-        <a href="https://www.instagram.com/mzhkca/">
-            <img src="./img/instagram.jpg" width="16" height="16" alt="Instagram"></img>
-        </a>
-    </td>
-  </tr>
-</table>
-<h3 id="tools">Languages and Tools</h3>
-<table>
-  <tr>
-    <td>
-        <img src="./img/typescript.jpg" width="16" height="16" alt="TypeScript"></img>
-    </td>
-    <td>
-        <img src="./img/javascript.jpg" width="16" height="16" alt="JavaScript"></img>
-    </td>
-    <td>
-        <img src="./img/java.png" width="16" height="16" alt="JAVA"></img>
-    </td>
-    <td>
-        <img src="./img/python.png" width="16" height="16" alt="Python"></img>
-    </td>
-    <td>
-        <img src="./img/golang.png" width="16" height="16" alt="Go"></img>
-    </td>
-    <td>
-        <img src="./img/nodejs.jpg" width="16" height="16" alt="Node.Js"></img>
-    </td>
-    <td>
-        <img src="./img/angular.jpg" width="16" height="16" alt="Angular"></img>
-    </td>
-    <td>
-        <img src="./img/expressjs.png" width="16" height="16" alt="Express.Js"></img>
-    </td>
-    <td>
-        <img src="./img/mysql.png" width="16" height="16" alt="MySQL"></img>
-    </td>
-    <td>
-        <img src="./img/mongodb.png" width="16" height="16" alt="MongoDB"></img>
-    </td>
-    <td>
-        <img src="./img/nginx.jpg" width="16" height="16" alt="Nginx"></img>
-    </td>
-    <td>
-        <img src="./img/docker.jpg" width="16" height="16" alt="Docker"></img>
-    </td>
-  </tr>
-</table>
-<h3 id="projects">Other Projects</h3>
-<table>
-    <tr>
-        <td>
-            <a href="https://github.com/oncedevhk/vlivego">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=oncedevhk&repo=vlivego&theme=dark&show_owner=true"/>
-            </a>
-        </td>
-        <td>
-            <a href="https://github.com/onceming/FinalYearProject">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=onceming&repo=FinalYearProject&theme=dark&show_owner=true"/>
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <a href="https://github.com/petsmary/ASRS">
-                <img src="https://github-readme-stats.vercel.app/api/pin/?username=petsmary&repo=ASRS&theme=dark&show_owner=true"/>
-            </a>
-        </td>
-    </tr>
-</table>
+## Hi there 👋, I'm Mary Cheung
+
+Software Engineer with 4+ years of experience in full stack web development using MEAN.
+
+[![Linkedin](https://img.shields.io/badge/-Mary%20Cheung-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://ca.linkedin.com/in/marymwc/)](https://ca.linkedin.com/in/marymwc/)
+[![GitHub](https://img.shields.io/github/followers/mzoengc?style=social)](https://github.com/mzoengc/)
+[![Twitter](https://img.shields.io/twitter/follow/mzhkca?style=social)](https://twitter.com/mzhkca/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/mzhkca/)](https://instagram.com/mzhkca/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/mzhkca/)](https://facebook.com/mzhkca/)
+
+### 💻 Skills
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
